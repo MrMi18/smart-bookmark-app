@@ -1,11 +1,9 @@
 'use client';
 
 import { supabase } from '@/lib/supabase';
-import { useRouter } from 'next/navigation';
 import { useState } from 'react';
 
 export function GoogleSignInButton() {
-  const router = useRouter();
   const [loading, setLoading] = useState(false);
 
   const handleGoogleSignIn = async () => {
