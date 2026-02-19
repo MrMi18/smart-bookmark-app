@@ -203,5 +203,5 @@ For issues, questions, or suggestions, please open an issue on GitHub or contact
 
 ---
 
-**Live Demo**: [Add your Vercel URL here]  
-**GitHub Repository**: [Add your GitHub URL here]
+**Live Demo**: [(https://smart-bookmark-app-taupe-tau.vercel.app)]  
+**GitHub Repository**: [https://github.com/MrMi18/smart-bookmark-app]
